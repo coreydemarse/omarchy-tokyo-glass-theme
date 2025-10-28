@@ -13,7 +13,7 @@ Tokyo Glass is a modified Tokyo Night theme that adds the following features:
 omarchy-theme-install https://github.com/coreydemarse/omarchy-tokyo-glass-theme
 ```
 
-# Better Borders
+## Better Borders
 
 Enable the `borders-plus-plus` plugin for even better looking borders with this theme.
 
