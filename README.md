@@ -17,9 +17,11 @@ omarchy-theme-install https://github.com/coreydemarse/omarchy-tokyo-glass-theme
 
 Enable the `borders-plus-plus` plugin for even better looking borders with this theme.
 
-`hyprpm add https://github.com/hyprwm/hyprland-plugins`
-`hyprpm update`
-`hyprpm enable borders-plus-plus`
+```
+hyprpm add https://github.com/hyprwm/hyprland-plugins
+hyprpm update
+hyprpm enable borders-plus-plus
+```
 
 ## Preview
 
