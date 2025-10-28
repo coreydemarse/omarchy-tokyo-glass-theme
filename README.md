@@ -27,6 +27,8 @@ hyprpm enable borders-plus-plus
 
 ![preview](https://github.com/coreydemarse/omarchy-tokyo-glass-theme/blob/main/preview.png)
 
+![preview2](https://github.com/coreydemarse/omarchy-tokyo-glass-theme/blob/main/preview2.png)
+
 ## Credits
 
 - Tokyo Night Theme and it's creators
