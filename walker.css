@@ -10,7 +10,7 @@ window {
 }
 
 window .box-wrapper {
-    background: alpha(@background, 0.9);
+    background: alpha(@background, 1);
     color: @text;
     border: 6px solid alpha(@border, 0.38);
     border-radius: 6px;
